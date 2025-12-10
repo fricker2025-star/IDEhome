@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Code Studio",
+  "description": "An advanced AI-powered IDE with multi-agent support, file system integration, and tool use.",
+  "requestFramePermissions": []
+}
